@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:0, group-title="LOCAL",NET
+https://etslive-2-vidio-com.akamaized.net/exp=1581324212~acl=/hls-p/ingest_875_*/*~hmac=a8620b876e388f48e5cabb4e3d72caa414aa1657713bef8abf2a0e262977f25b/hls-p/ingest_875_480p/index.m3u8
+
+#EXTINF:0, group-title="LOCAL",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114513945_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="LOCAL",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w5117019_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="LOCAL",RCTI
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581179696~exp=9007200835920687~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=f90e8e9d855da502cc01aa9403bfe9ae1a1ec319377dbd78ae2d379feb692fa8
+
+#EXTINF:0, group-title="LOCAL",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1581325619~acl=/hls-p/ingest_204_*/*~hmac=3a0d2deb35df34f15ab450776dee2b24385ed0f3ced3caa6a5c6ac8e8aa564e0/hls-p/ingest_204_480p/index.m3u8
+
+#EXTINF:0, group-title="LOCAL",MNC
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581179951~exp=9007200835920942~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=fae8d27992bd1ce6a38e9b21f7fb5742b0dc881b9ee03a303d14ba9825981fe2
+
+#EXTINF:0, group-title="LOCAL",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1581324351~acl=/hls-p/ingest_205_*/*~hmac=856dab3e9b7a201e11538e37e090c36d4adfd6b8f31be48555fdf7e73a08cfb2/hls-p/ingest_205_480p/index.m3u8
+
+#EXTINF:0, group-title="LOCAL",ANTV
+https://etslive-2-vidio-com.akamaized.net/exp=1581325715~acl=/hls-p/ingest_782_*/*~hmac=cdf19f883fbd3ac0b5e8dc6321a8079967dbd36f20b3067cf0e46deec8e4f3fd/hls-p/ingest_782_480p/index.m3u8
+
+#EXTINF:0, group-title="LOCAL",GLOBAL TV
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581179750~exp=9007200835920741~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=f78272a0742d5e25ed52f05eb601559f8dd66f56f1cc30f7db4fa5649d505e94
+
+#EXTINF:0, group-title="LOCAL",METRO TV
+https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS4BHE-um7Su1-Z5_lg8X0XI)/dm/3/x75p70w/d/live-2.m3u8
+
+#EXTINF:0, group-title="LOCAL",RTV
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581179877~exp=9007200835920868~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=621163b18463b960d3d8fa5e607758be24246e23d4e9deed64a4a9e0655c31fa
+
+#EXTINF:0, group-title="LOCAL",TV ONE
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581179797~exp=9007200835920788~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=3d596767607da70315c01c0d7178b6ed759205197a987f898bfeceafffd87170
+
+#EXTINF:0, group-title="LOCAL",BERITA SATU
+https://etslive-2-vidio-com.akamaized.net/exp=1581324424~acl=/hls-p/ingest_6165_*/*~hmac=c9edacf73e8d3f6901de81d46902a4a77f307caee2e1d0ce9c7596c2e12e52f4/hls-p/ingest_6165_480p/index.m3u8
+
+#EXTINF:0, group-title="LOCAL",KOMPAS TV
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581179838~exp=9007200835920829~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=d9c5e83e3ef297cdb9f10bde740b5ebb9b8fde0ca6c7b32dd3a02a3e87de7fbc
+
+#EXTINF:0, group-title="LOCAL",SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOCAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2087900206_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="LOCAL",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1849718238_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="LOCAL",TVRI
+http://210.210.155.35/qwr9ew/s/s11/02.m3u8
