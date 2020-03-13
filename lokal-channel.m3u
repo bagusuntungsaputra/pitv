@@ -1,0 +1,48 @@
+#EXTINF:0, group-title="INDONESIA",SCTV
+http://210.210.155.35/session/c4cc91fc-654d-11ea-bdbf-b82a72d63267/x6bnqe/s/s253/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",INDOSIAR
+http://210.210.155.35/session/1506596e-654e-11ea-bdbf-b82a72d63267/x6bnqe/s/s251/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",NET TV
+http://210.210.155.35/session/40e52d08-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",ANTV
+http://210.210.155.35/session/5c9a8e26-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s102/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",TV ONE
+http://210.210.155.35/session/787e0596-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",KOMPAS TV
+http://210.210.155.35/session/99d11904-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",METRO TV
+http://210.210.155.35/session/ba2b490e-654e-11ea-b508-c81f66f89318/uq2663/h/h12/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",RTV
+http://210.210.155.35/session/e6d976d8-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:0, group-title="INDONESIA",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w646418066_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="INDONESIA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w806340288_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="INDONESIA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1948021658_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="INDONESIA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1297344092_b384000_sleng.m3u8
+
+#EXTINF:0, group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:0, group-title="INDONESIA",RCTI
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6.m3u8
+
+#EXTINF:0, group-title="INDONESIA",MNC TV
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1.m3u8
+
+
+#EXTINF:0, group-title="INDONESIA",GLOBAL TV
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8
