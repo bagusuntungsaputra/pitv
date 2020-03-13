@@ -1,26 +1,26 @@
 #EXTINF:0, group-title="INDONESIA",SCTV
-http://210.210.155.35/session/c4cc91fc-654d-11ea-bdbf-b82a72d63267/x6bnqe/s/s253/01.m3u8
+http://210.210.155.35/x6bnqe/s/s253/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",INDOSIAR
-http://210.210.155.35/session/1506596e-654e-11ea-bdbf-b82a72d63267/x6bnqe/s/s251/01.m3u8
+http://210.210.155.35/x6bnqe/s/s251/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",NET TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",ANTV
-http://210.210.155.35/session/5c9a8e26-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s102/01.m3u8
+http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",TV ONE
-http://210.210.155.35/session/787e0596-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",KOMPAS TV
-http://210.210.155.35/session/99d11904-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s104/01.m3u8
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",METRO TV
-http://210.210.155.35/session/ba2b490e-654e-11ea-b508-c81f66f89318/uq2663/h/h12/01.m3u8
+http://210.210.155.35/uq2663/h/h12/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",RTV
-http://210.210.155.35/session/e6d976d8-654e-11ea-8ed3-b82a72d63267/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:0, group-title="INDONESIA",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w646418066_b384000_sleng.m3u8
