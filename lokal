@@ -1,0 +1,29 @@
+#LOKAL
+#EXTINF:-1 ,Lokal-100 TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 ,Lokal-101 METRO TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 ,Lokal-102 TVONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 ,Lokal-103 TRANS TV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 ,Lokal-104 TRANS 7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 ,Lokal-105 SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 ,Lokal-106 RCTI
+http://chostv.mobie.in/files/iptv/rcti.m3u8
+#EXTINF:-1 ,Lokal-107 MNC TV
+http://chostv.mobie.in/files/iptv/mnctv.m3u8
+#EXTINF:-1 ,Lokal-108 GLOBAL TV
+http://chostv.mobie.in/files/iptv/gtv.m3u8
+#EXTINF:-1 ,Lokal-109 INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 ,Lokal-110 ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 ,Lokal-111 Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 ,Lokal-112 NET TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 ,Lokal-113 Berita Satu
+rtp://@239.1.1.183:9072
